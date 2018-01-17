@@ -1,7 +1,5 @@
 # Polify
 
-https://github.com/djlowes/polify
-
 Polify is a web application that allows users to search and gather data on individual members of congress. It displays information, such as recent twitter feed, an image of the individual, as well as a list of emotional attributes. Polify also ranks of each member of congress based on a certain emotional attribute. The main page displays charts that allow users to visualize and compare the values of emotional attributes based on the individual's gender, party, or state. 
 
 ## Application use
